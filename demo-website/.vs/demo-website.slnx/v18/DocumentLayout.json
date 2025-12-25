@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA4B5E8-B20C-42E4-BE98-0A46C36BB2E4}|demo-website.csproj|D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AA4B5E8-B20C-42E4-BE98-0A46C36BB2E4}|demo-website.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA4B5E8-B20C-42E4-BE98-0A46C36BB2E4}|demo-website.csproj|D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA4B5E8-B20C-42E4-BE98-0A46C36BB2E4}|demo-website.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA4B5E8-B20C-42E4-BE98-0A46C36BB2E4}|demo-website.csproj|d:\\codes\\github_repos\\daily-dotnet-class\\demo-website\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AA4B5E8-B20C-42E4-BE98-0A46C36BB2E4}|demo-website.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-25T13:31:44.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\login.aspx.cs",
+              "RelativeDocumentMoniker": "login.aspx.cs",
+              "ToolTip": "D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\login.aspx.cs",
+              "RelativeToolTip": "login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:16:05.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "D:\\Codes\\GITHUB_REPOS\\daily-dotnet-class\\demo-website\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-25T13:06:59.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
