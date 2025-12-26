@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="HDFC_Loan_Web_Application.Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style>
+        .master-table {
+            width: 100%;
+            border-collapse: collapse;
+            This is the "magic" line
+        }
+
+            .master-table td {
+                border: 2px solid #ccc; /* Internal cell borders */
+                padding: 5px; /* Space inside the cells */
+            }
+
+        .auto-style1 {
+            width: 1077px;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table class="master-table">
+                <tr>
+                    <td colspan="12">
+                        <center>
+                            <h1>HDFC Loans - Next Step to Dream</h1>
+                        </center>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="4" class="auto-style1">Logged In:
+                        <asp:Label ID="lblEmail" runat="server" Text=""></asp:Label>
+                    </td>
+                    <td>
+                        <asp:Button ID="btnLogOut" runat="server" Text="LogOut" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <asp:LinkButton ID="LinkButton1" runat="server">Home</asp:LinkButton></td>
+                    <td>
+                        <asp:LinkButton ID="LinkButton2" runat="server">New Application</asp:LinkButton></td>
+                    <td>
+                        <asp:LinkButton ID="LinkButton3" runat="server">Update Application</asp:LinkButton></td>
+                    <td>
+                        <asp:LinkButton ID="LinkButton4" runat="server">Discard Application</asp:LinkButton></td>
+                    <td>
+                        <asp:LinkButton ID="LinkButton5" runat="server">View All</asp:LinkButton></td>
+                </tr>
+                <tr>
+                    <td colspan="12">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="12">
+                        <h1>Contact Us:</h1>HDFC Loans Systems,<br />Mumbai, Maharastra, India
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>
